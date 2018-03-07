@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="D:/nlpjars/apache-opennlp-1.5.3/lib/jwnl-1.3.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/nlpjars/apache-opennlp-1.5.3/lib/opennlp-maxent-3.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/nlpjars/apache-opennlp-1.5.3/lib/opennlp-uima-1.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/modelSer.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/nlpjars/opennlp-tools-1.5.3_mod.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hadoop-annotations.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hadoop-common.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hadoop-hdfs-nfs.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hadoop-hdfs.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/slf4j-api-1.7.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/slf4j-log4j12-1.7.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spark-streaming_2.10-1.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spark-streaming-twitter_2.10-1.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/json-20170516.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ejml-0.23.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/stanford-corenlp-3.8.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/VirtualShare/spark-assembly.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/VirtualShare/nlpjars/stanford-corenlp-3.8.0-models.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/twitter4j-core-4.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/twitter4j-stream-4.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spark-hive_2.10-1.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spark-sql_2.10-1.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
